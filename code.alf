@@ -1,2 +1,2 @@
-func('fc','out("Hi!")
+func('fc','out("Hi!")')
 call("fc")
