@@ -1,1 +1,1 @@
-Simple AGP package.
+simple AGP package.
